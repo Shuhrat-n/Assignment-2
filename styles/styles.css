@@ -1,0 +1,13 @@
+/* banner section */
+.banner-section{
+    background-image: url('../assets/hero-bg.png');
+    border: 5px solid red;
+}
+.banner-section .rounded-shape{
+    width: 170px;
+    height: auto;
+}
+.banner-section .mic{
+    width: 70px;
+    height: auto;
+}
